@@ -15,6 +15,7 @@ public class rotateMatrix1x7 {
 			System.out.println("");
 		}
 		
+		
 	}
 	//Not in place method
 	public static int[][] rotateMatrix(int[][] matrix, int matrixSize){
